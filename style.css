@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #0a0ede;
 }
 
 ul li {
@@ -28,11 +28,11 @@ ul li a {
 }
 
 ul li a:hover:not(.active) {
-  background-color: #111111;
+  background-color: #8d0ce3;
 }
 
 ul li a.active {
-  background-color: #04AA6D;
+  background-color: rgb(255, 47, 227);
 }
 </style>
 </head>
